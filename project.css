@@ -297,3 +297,40 @@ padding: 5%;
 }
 
 
+.grid-test {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.grid_img{
+    height: 100px;
+    margin: 10px auto;
+}
+.img-1{
+    width: 60%;
+}
+.img-2{
+    width: 30%;
+}
+.img-3{
+    width: 30%;
+}
+.img-4{
+    width: 60%;
+}
+.img-5{
+    width: 60%;
+}
+.img-6{
+    width: 30%;
+}
+
+.grid_img img{
+    height: 100%;
+    width: 100%;
+}
+
+.main5-text{
+    padding-left:27%;
+}
