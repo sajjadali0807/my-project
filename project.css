@@ -334,3 +334,39 @@ padding: 5%;
 .main5-text{
     padding-left:27%;
 }
+
+.office-main{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+.office-1{
+  background-image: url(./assets/images/israel-andrade-YI_9SivVt_s-unsplash.jpg);
+  margin: 0 10px 0 10px;
+  background-position-x: 10px;
+  background-position: 0%;
+}
+.office-2{
+    background-image: url(./assets/images/israel-andrade-YI_9SivVt_s-unsplash.jpg);
+    margin: 0 10px 0 10px;
+    background-position-x: 10px;
+    background-position: 50%;
+}
+.office-3{  
+    background-image: url(./assets/images/israel-andrade-YI_9SivVt_s-unsplash.jpg);
+    margin: 0 10px 0 10px;
+    background-position-x: 10px;
+    background-position: 100%;
+}
+.office-img{
+    height: 400px;
+    margin-bottom: 10%;
+    background-size: 309%;
+    background-position-y: -300px;
+
+}
+.main-black{
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.384);
+}
