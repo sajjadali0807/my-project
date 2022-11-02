@@ -340,36 +340,45 @@ padding: 5%;
     justify-content: space-between;
     width: 80%;
     margin: auto;
+    padding-top: 40px;
 }
 .office-1{
   background-image: url(./assets/images/israel-andrade-YI_9SivVt_s-unsplash.jpg);
   margin: 0 10px 0 10px;
   background-position-x: 10px;
   background-position: 0%;
+  border-radius: 5px;
 }
 .office-2{
     background-image: url(./assets/images/israel-andrade-YI_9SivVt_s-unsplash.jpg);
     margin: 0 10px 0 10px;
     background-position-x: 10px;
     background-position: 50%;
+    border-radius: 5px;
 }
 .office-3{  
     background-image: url(./assets/images/israel-andrade-YI_9SivVt_s-unsplash.jpg);
     margin: 0 10px 0 10px;
     background-position-x: 10px;
     background-position: 100%;
+    border-radius: 5px;
 }
 .office-img{
     height: 400px;
     margin-bottom: 10%;
-    background-size: 309%;
+    background-size: 311%;
     background-position-y: -300px;
 
 }
-.main-black{
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.384);
+.map img{
+    width: 68%;
+    padding-left: 140px;
+
 }
-.main-2{
-    position: relative;
+.map-main{
+    display: flex;
+}
+.form-heading p{
+  font-size: small;
+  color: #dddddd;
 }
